@@ -17,7 +17,7 @@
 git checkout -b chanwoong // 자신의 이름
 ```
 
-브랜치마다 각자 개별 작업을 할 수 있으니 병합만 하지말아주세요.  
+브랜치마다 각자 개별 작업을 할 수 있으니 병합만 하지말아주세요.
 **❌ 절대로 main 브랜치에 merge 하지 말아주세요 !!! ❌**
 
 ### 추가 사항
@@ -40,12 +40,12 @@ git checkout -b chanwoong // 자신의 이름
 
 ---
 
-이번 주는 **다이나믹 프로그래밍*에 대해서 알아보겠습니다. (이번주는 쉬운걸로 !!)
+이번 주는 \**다이나믹 프로그래밍*에 대해서 알아보겠습니다. (이번주는 쉬운걸로 !!)
 문제는 다음과 같습니다.
 
 - [이친수](https://www.acmicpc.net/problem/2193)
 - [카드 구매하기](https://www.acmicpc.net/problem/11052)
-- [설탕 배달](https://www.acmicpc.net/problem/2849)
+- [설탕 배달](https://www.acmicpc.net/problem/2839)
 - [피보나치 수 4](https://www.acmicpc.net/problem/10826)
 - [돌 게임](https://www.acmicpc.net/problem/9655)
 - [증가하는 부분 수열의 개수](https://www.acmicpc.net/problem/22971)
