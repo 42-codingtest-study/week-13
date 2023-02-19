@@ -45,7 +45,7 @@ git checkout -b chanwoong // 자신의 이름
 
 - [이친수](https://www.acmicpc.net/problem/2193)
 - [카드 구매하기](https://www.acmicpc.net/problem/11052)
-- [설탕 배달](https://www.acmicpc.net/problem/2839)
+- [설탕 배달](https://www.acmicpc.net/problem/2849)
 - [피보나치 수 4](https://www.acmicpc.net/problem/10826)
 - [돌 게임](https://www.acmicpc.net/problem/9655)
 - [증가하는 부분 수열의 개수](https://www.acmicpc.net/problem/22971)
